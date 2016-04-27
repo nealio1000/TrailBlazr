@@ -1,4 +1,4 @@
-package ventureindustries.trailblazr;
+package ventureindustries.altimeter;
 
 import org.junit.Test;
 
